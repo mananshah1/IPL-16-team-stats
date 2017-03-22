@@ -1,4 +1,4 @@
-# IPL-16-team-stats
+# IPL-16-team-stats and playoff models
 ipl 16 stats from cricinfo
 
 Hi all, I have used the XML package here to pull stats from cricinfo. Here are the steps to run a playoff model for the IPL
